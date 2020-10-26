@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutTransition</string>
+    <string name="description_image_1">image 1</string>
+    <string name="card_back_title">back</string>
+    <string name="card_back_description">back</string>
+
+</resources>
